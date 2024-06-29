@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chelsea Phillips.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on linux tools.
-- 📫 How to reach me , linkedin.com/in/chelsea-phillips-3a2a10213.
-- 😄 Pronouns: She/Her
+  
   
 
 <!---
