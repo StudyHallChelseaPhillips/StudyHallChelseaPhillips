@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chelsea Phillips.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on linux tools.
+- I’m currently learning Python.
+- I've been learning linux for about ten months now. 
+- My main objective is to get into space security. Right now i am studying to pass the comptia a+ exam.
   
   
 
