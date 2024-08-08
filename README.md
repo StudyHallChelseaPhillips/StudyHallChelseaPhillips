@@ -1,6 +1,7 @@
 - I’m currently learning Python.
 - I've been learning linux for about ten months now. 
-- My main objective is to get into space security. Right now i am studying to pass the comptia a+ exam.
+- My main objective is to get into space-security or cybersecurity. Right now i am studying to pass the comptia a+ exam.
+
   
   
 
